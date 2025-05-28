@@ -67,9 +67,10 @@ export const Hero = () => {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="http://"
+              href="../assets/Piniel Makotose_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
+              download
               className="bg-white rounded-full p-2 text-sm text-stone-800 mb-10"
             >
               {" "}
